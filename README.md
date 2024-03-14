@@ -2,4 +2,4 @@
 
 SolidWorks Model of Nigel
 
-![](Nigel%20v2.0.png)
+![](Nigel%20v3.0.png)
