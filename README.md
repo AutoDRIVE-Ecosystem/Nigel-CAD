@@ -1,4 +1,4 @@
-# Nigel SolidWorks
+# Nigel CAD
 
 SolidWorks Model of Nigel
 
